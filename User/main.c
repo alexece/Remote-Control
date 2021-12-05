@@ -15,6 +15,8 @@ Optimization:
 	5. Drone open receving signal.Otherwire keep searching and pending signal. Tx may fail without receving Rx.
 	6. DMA and ADC
 	7. Joystick Calibration -> Make sure Throttle is low. 
+	8. Add more channels
+	9. Add buttons to active HMI
 */
 
 // Device header

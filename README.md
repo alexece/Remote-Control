@@ -5,6 +5,7 @@ This is the initial program for STM32 based remote controller.
 a TX_Buff array is created with Tx_Buff[14], so theoretically it supports 14 channels. However, only 4 channels are being used
 
 MCU: STM32F103C8T6
+
 CORE: Cortex M3
 
 Function: 
